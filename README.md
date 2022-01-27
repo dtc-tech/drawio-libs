@@ -1,2 +1,2 @@
 # drawio-libs
-## A collection of https://draw.io XML libraries that I've converted and archived.
+## A collection of https://www.diagrams.net/ XML libraries that I've converted and archived.
